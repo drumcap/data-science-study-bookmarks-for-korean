@@ -5,6 +5,11 @@
 
 ### 한글(블로그,논문)
 
+* [2년간 머신러닝 기반 실시간 추천시스템을 만든 이야기](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
+* [[당근마켓]딥러닝 기반 개인화 추천 시스템 소개](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
+* [[당근마켓]딥러닝 기반 개인화 추천 시스템 - production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
+* [Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019/ssuser593481/ndc19interpretable-recommender-system-ndc2019?fbclid=IwAR3Yg7tgnfjj0_ztBXMqD5SLM0DIrS5M3Vt_e1kEsXbP33e5Y5BRXCFxD-s)
+* [Pinterest Pixie 리뷰](https://ita9naiwa.github.io/recommender%20systems/2019/05/10/pixie-algotirhm-at-pinterest.html?fbclid=IwAR3SB3PBIfP_1j96p8ylT7KpgBV874Wx2i9bNItFxikGQg4xrXJ1FWEF1BE)
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 * [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
@@ -22,7 +27,7 @@
 * [Evaluating Recommender Systems - Explaining F-Score, Recall and Precision using Real Data Set from Apontador](http://aimotion.blogspot.kr/2011/05/evaluating-recommender-systems.html)
 * [RecoLabs 스터디 자료 Part 1](https://drive.google.com/drive/u/0/folders/0B8ETIsKCwpwXcmpZM21BbVpodGM)
 * [이바로님의 머신러닝/추천시스템 블로그](http://leebaro.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%28Machine%20Learning%29/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%28Recommendation%20System%29)
-* Naver 추쳔 관련 블로그
+* Naver 추천 관련 블로그
   * [취향저격 잇템 찾아주는 딥러닝 기반 개인화 상품 추천 시스템 ‘에이아이템즈 [AiTEMS]’](https://blog.naver.com/naver_search/221085553045)
   * [쇼핑을 자주 하지 않는 이용자도, 신규 판매자도 만족스러운 쇼핑 플랫폼을 만드는 에이아이템즈[AiTEMS]의 기술](https://blog.naver.com/naver_search/221086300708)
   * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
@@ -39,6 +44,9 @@
 
 ### 영어
 
+* [An update on Pixie, Pinterest’s recommendation system](https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b)
+  * [PAPER : Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time](https://labs.pinterest.com/user/themes/pin_labs/assets/paper/paper-pixie.pdf)
+  * [YOUTUBE : Recommending 4+ Billion Ideas to 250+ Million Users in Real Time](https://www.youtube.com/watch?v=qTfeWt95EmQ)
 * [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 * [Apache Spark Recommendation](https://www.slideshare.net/cfregly/boston-spark-meetup-may-24-2016)
